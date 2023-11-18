@@ -1,0 +1,105 @@
+
+
+
+.contactus-container {
+    display: flex;
+    margin-top: 50px;
+}
+
+.contactus-container .photo {
+    display: flex;
+    margin-left: 130px;
+}
+
+.contactus-container .text {
+    margin-left: 110px;
+}
+
+.contactus-container .text h2 {
+    width: 390px;
+    height: 116px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 58px;
+    color: #FFFFFF;
+    opacity: 0.87;
+}
+
+.contactus-container .text p {
+    width: 375px;
+    height: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 28px;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.contactus-container .text .name {
+    background-color: #19161B;
+    color: #FFFFFF;
+    padding: 14px 10px;
+    width: 200px;
+    border: 1px solid rgba(255, 255, 255, 0.04);
+}
+.contactus-container .text .name:hover{
+    color:#FFB577;
+    border-color: rgb(58, 58, 58);
+}
+
+.contactus-container .text .email {
+    background-color: #19161B;
+    color: #FFFFFF;
+    padding: 14px 10px;
+    width: 200px;
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    margin-left: 3px;
+}
+.contactus-container .text .email:hover{
+    color:#FFB577;
+    border-color: rgb(58, 58, 58);
+}
+
+.contactus-container .text .message {
+    background-color: #19161B;
+    color: #FFFFFF;
+    padding: 14px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    margin-top: 25px;
+    width: 410px;
+    height: 100px;
+    margin-bottom: 30px;
+}
+.contactus-container .text .message:hover{
+    color: #FFB577;
+    border-color: rgb(58, 58, 58);
+}
+
+.contactus-container .text .button1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.87;
+    background: #27252D;
+    padding: 15px 20px;
+}
+.contactus-container .text .button1:hover{
+    color: #FFB577;
+}
+
+.contactus-container .photo .left-photo {
+    margin-top: 50px;
+}
+
+.contactus-container .photo .right-photo {
+    margin-left: 60px;
+}

@@ -1,0 +1,21 @@
+.calculator_container {
+    display: flex;
+}
+
+.button_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    width: 60px;
+}
+
+button {
+    flex-grow: 1;
+}
+
+.result {
+    margin-top: 40px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 32px;
+}
